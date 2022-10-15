@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px; 
+    margin: auto;   
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
